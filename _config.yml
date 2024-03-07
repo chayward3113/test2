@@ -1,4 +1,5 @@
 #remote_theme: coogie/oscailte
-remote_theme: jasongaylord/SpaacedOut
+#Archive?  remote_theme: jasongaylord/SpaacedOut
+remote_theme: epidrome/cover-card@main
 
 #No Go      remote_theme: moonharelabs/styless
